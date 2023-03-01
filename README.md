@@ -21,3 +21,4 @@ Map Visual : To color code countries by gradient to indicate the sum of total de
 Table: To calculate death percentage (using DAX functions) by country
 
 Stacked Column Chart : Total deaths by Total Vaccinations for each country. Joined Covid Deaths data and CovidVaccinations data on Power BI model view
+[CovidData_PowerBI Dashboard.pdf](https://github.com/Aparna1098/SQL-Challenge-1/files/10857366/CovidData_PowerBI.Dashboard.pdf)
