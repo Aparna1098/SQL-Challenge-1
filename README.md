@@ -14,3 +14,8 @@ Used SQL to find Death percentage by country in all Asian countries.
 
 
 ### SQL Functions used in Query: SELECT, UPDATE, INSERT, JOINS, NULLIF, GROUP BY, Order By
+
+## Power BI for Data Visualisation
+Map Visual : To color code countries by gradient to indicate the sum of total deaths
+Table: To calculate death percentage (using DAX functions) by country
+Stacked Column Chart : Total deaths by Total Vaccinations for each country. Joined Covid Deaths data and CovidVaccinations data on Power BI model view
