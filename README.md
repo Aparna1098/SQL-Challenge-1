@@ -1,4 +1,4 @@
-# SQL-Challenge-1
+# SQL-Project-1
 Project to extract covid deaths and vaccinations data from https://ourworldindata.org/coronavirus. 
 Used SQL to find Death percentage by country in all Asian countries.
 ## Created the following Queries:
